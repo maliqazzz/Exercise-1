@@ -1,0 +1,19 @@
+h1.Biodata {
+    
+    margin-top: 20px;
+}
+h2.Nama {
+    color: green;
+    margin-top: 10px;
+    font-size: x-large;
+}
+h3.Umur {
+    color: orangered;
+    margin-top: 10;
+    font-size: x-large;
+}
+h4.Alamat {
+    color: brown;
+    margin-top: 10;
+    font-size: x-large;
+}
